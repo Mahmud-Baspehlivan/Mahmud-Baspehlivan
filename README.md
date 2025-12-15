@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmud Başpehlivan</h1>
 
-- 🔭 I’m currently working on **C++ & HTML,CSS**
-- 🌱 I’m currently learning **C & Java**
+- 🔭 I’m currently working on **Java Spring & Next**
+- 🌱 I’m currently learning **Nest**
 - 💬 Ask me about ...
 - 📫 How to reach me: **mahmudbaspehlivan@gmail.com**
 
